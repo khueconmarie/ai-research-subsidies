@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these replication materials, please cite this software release and the related paper."
+type: software
+title: "Replication materials for Input Supply and the Design of AI Research Subsidies"
+authors:
+  - family-names: "Lee"
+    given-names: "Hyunkyu"
+    affiliation: "Kyung Hee University"
+    orcid: "https://orcid.org/0000-0001-9134-1748"
+version: "2026.09.15"
+date-released: 2026-09-15
+repository-code: "https://github.com/khueconmarie/ai-research-subsidies"
+url: "https://github.com/khueconmarie/ai-research-subsidies/releases/tag/v2026.09.15"
+keywords:
+  - research subsidies
+  - researcher supply
+  - dynamic general equilibrium
+  - artificial intelligence
+  - replication
+abstract: "Code, calibration inputs, saved numerical results, and reproduction instructions for conditional dynamic comparisons of compute-only and common-rate research subsidy programs."
